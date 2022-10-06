@@ -1,4 +1,4 @@
-Project Created by Prell Group, 2022. 
+Project Developed by Prell Group, 2022. 
 SOURCE CODE ONLY
 Please reach out to Agilent/Prell Group for compiled exes. 
 C# exe is complied using MIDAC, a library developed by Agilent to read Ion-MS .d 6560 files. 
